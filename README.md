@@ -32,7 +32,7 @@ Once you imported the pdflock library, to DIRECTLY lock a PDF use:
 Using that format, the program will encrypt the PDF located in the path entered.
 If you want to protect a copy of a PDF file, use:
 
-	pdfloc.protect(YourPDFfilePath, YourPasswordToUnlockThePDF, YourProtectedPDFDestination)
+	pdflock.protect(YourPDFfilePath, YourPasswordToUnlockThePDF, YourProtectedPDFDestination)
 
 Using this format, the program will create a copy of your PDF file and encrypt it.
 
