@@ -55,5 +55,8 @@ example number 2:
 	pdf_dext = input("insert here the destination path of your protected pdf file: ")
 
 	pdflock.protect(pdf_path, pdf_password, pdf_dext)
+	
+## Credits
+Program developed by [@Giacomo-De-Florio-Dev](https://github.com/giacomo-de-florio-dev/)
 
 ## [**DOWNLOAD HERE THE LATEST VERSION OF PDFLOCK**](https://github.com/Giacomo-De-Florio-Dev/PdfLock/releases/latest)
