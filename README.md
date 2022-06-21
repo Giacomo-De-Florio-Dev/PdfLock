@@ -6,7 +6,7 @@ The script and its various versions contained in the repository provide a full s
 ## Supported Operanting Systems
 - Microsoft Windows
 - Linux and Distros. 
-- Mac Os X [*Unofficial Supported *]
+- Mac Os X [Unstable].
 
 ## Required programs and libraries.
 - Latest version of Python installed on your device.
